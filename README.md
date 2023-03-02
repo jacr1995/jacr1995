@@ -1,4 +1,7 @@
 ### Hi there 👋
+INGENIERO INDUSTRIAL
+
+
 
 <!--
 **jacr1995/jacr1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
