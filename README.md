@@ -1,7 +1,11 @@
 ### Hi there 👋
 INGENIERO INDUSTRIAL
 
+I have skills like:
 
+1.Discipline
+2.Responsibility
+3.Approach
 
 <!--
 **jacr1995/jacr1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
