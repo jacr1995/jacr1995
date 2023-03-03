@@ -2,7 +2,7 @@
 
 I'm an Industrial engineer
 
-### *skills:*
+### *Skills:*
 * Discipline ⌚
 * Responsibility ✏
 * Approach 📊
