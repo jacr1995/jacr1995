@@ -2,26 +2,24 @@
 
 I'm an Industrial engineer
 
-### *Skills:*
+### *skills:*
 * Discipline ⌚
 * Responsibility ✏
 * Approach 📊
 
+|Comands  | Description                         |
+|----     |---                                  |
+|mv       | Permite mover un archivo            |
+|mv       | Permite cambiar de nombre un archivo|
+|cat|Imprime el contenido de un archivo|
+|more| Permite navegar usando controles tipo vim|
+|Touch|Crea un archivo nuevo|
 
+## *Alias*
+
+|Comands|Description|
+|---|---|
+|alias rm="trash"|Permite eliminar archivos permanentemente|
+|alias cl="clear"|Permite limpiar información|
 
 <!--
-
-
-**jacr1995/jacr1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
