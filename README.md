@@ -1,13 +1,14 @@
-### Hi there 👋
-INGENIERO INDUSTRIAL
+# Hi there 👋
 
-I have skills like:
+I'm an Industrial engineer
 
-1.Discipline
-2.Responsibility
-3.Approach
+### skills
+* Discipline
+* Responsibility
+* Approach
 
 <!--
+
 **jacr1995/jacr1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
