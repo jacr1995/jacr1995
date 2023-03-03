@@ -1,13 +1,16 @@
-# Hi there 👋
+# **Hi there** 👋
 
 I'm an Industrial engineer
 
-### skills
-* Discipline
-* Responsibility
-* Approach
+### *skills:*
+* Discipline ⌚
+* Responsibility ✏
+* Approach 📊
+
+
 
 <!--
+
 
 **jacr1995/jacr1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
